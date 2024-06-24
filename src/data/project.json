@@ -1,0 +1,18 @@
+[
+    {
+        "key":1,
+        "title":"FlyHigh Aviation",
+        "imagesrc":"project_image/log.png",
+        "description":"Flyhigh Aviation project which is based on Airline reservation system and enhance the booking process for airlines.",
+        "demo":"https://vvikram.pythonanywhere.com/",
+        "source":"https://github.com/Vvikram10/Flyhigh_Aviation"
+    },
+    {
+        "key":2,
+        "title":"Titanic Survival Prediction",
+        "imagesrc":"project_image/titanic.jpeg",
+        "description":"This project focuses on building a predictive model to determine the survival of passengers on the Titanic .",
+        "demo":"https://github.com/Vvikram10/titanic/blob/main/mytitanic/NewTitanic.ipynb%20-%20Colaboratory.pdf",
+        "source":"https://github.com/Vvikram10/titanic"
+    }
+]
